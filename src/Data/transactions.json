@@ -1,0 +1,42 @@
+[
+    {
+        "id": "TRX-001",
+        "userId": "USR-001",
+        "ebookId": "EBK-005",
+        "borrowedAt": "2026-11-13",
+        "dueDate": "2026-11-20",
+        "returnedAt": "2026-11-13",
+        "rentalFee": 75000,
+        "status": "Returned"
+    },
+    {
+        "id": "TRX-002",
+        "userId": "USR-002",
+        "ebookId": "EBK-002",
+        "borrowedAt": "2026-11-13",
+        "dueDate": "2026-11-23",
+        "returnedAt": null,
+        "rentalFee": 56250,
+        "status": "Active"
+    },
+    {
+        "id": "TRX-003",
+        "userId": "USR-004",
+        "ebookId": "EBK-004",
+        "borrowedAt": "2026-11-13",
+        "dueDate": "2026-11-27",
+        "returnedAt": null,
+        "rentalFee": 63750,
+        "status": "Active"
+    },
+    {
+        "id": "TRX-004",
+        "userId": "USR-003",
+        "ebookId": "EBK-003",
+        "borrowedAt": "2026-11-13",
+        "dueDate": "2026-12-03",
+        "returnedAt": null,
+        "rentalFee": 45000,
+        "status": "Active"
+    }
+]

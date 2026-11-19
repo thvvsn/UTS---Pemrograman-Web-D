@@ -1,0 +1,74 @@
+[
+    {
+        "id": "EBK-001",
+        "title": "Clean Architecture in Practice",
+        "author": "Robert C. Martin",
+        "publishedYear": 2021,
+        "isbn": "978-0-13-449416-6",
+        "category": "Rekayasa Perangkat Lunak",
+        "rentalPrice": 67500,
+        "totalCopies": 5,
+        "availableCopies": 5,
+        "description": "Panduan praktis merancang sistem perangkat lunak yang mudah dipelihara dan terpisah dengan batasan yang jelas."
+    },
+    {
+        "id": "EBK-002",
+        "title": "Modern PHP 8 Patterns",
+        "author": "Josh Lockhart",
+        "publishedYear": 2023,
+        "isbn": "978-1-49-190501-2",
+        "category": "Pengembangan Web",
+        "rentalPrice": 56250,
+        "totalCopies": 4,
+        "availableCopies": 3,
+        "description": "Pelajari arsitektur berorientasi objek, pengetikan ketat, dan pola backend yang tangguh di PHP 8."
+    },
+    {
+        "id": "EBK-003",
+        "title": "The Art of Readable Code",
+        "author": "Dustin Boswell",
+        "publishedYear": 2019,
+        "isbn": "978-0-59-680229-5",
+        "category": "Rekayasa Perangkat Lunak",
+        "rentalPrice": 45000,
+        "totalCopies": 6,
+        "availableCopies": 5,
+        "description": "Teknik sederhana dan praktis untuk menulis kode yang dapat dipahami dengan cepat oleh pengembang lain."
+    },
+    {
+        "id": "EBK-004",
+        "title": "Designing Earthy Interfaces",
+        "author": "Clara Vance",
+        "publishedYear": 2024,
+        "isbn": "978-1-09-811234-9",
+        "category": "Desain UI/UX",
+        "rentalPrice": 63750,
+        "totalCopies": 3,
+        "availableCopies": 2,
+        "description": "Teori warna, hierarki tipografi, dan sistem tata letak taktil untuk produk digital yang menenangkan."
+    },
+    {
+        "id": "EBK-005",
+        "title": "Database Internals",
+        "author": "Alex Petrov",
+        "publishedYear": 2022,
+        "isbn": "978-1-49-204034-7",
+        "category": "Sistem Data",
+        "rentalPrice": 75000,
+        "totalCopies": 2,
+        "availableCopies": 2,
+        "description": "Pembahasan mendalam tentang cara kerja penyimpanan data terdistribusi, B-tree, dan mesin penyimpanan di balik layar."
+    },
+    {
+        "id": "EBK-006",
+        "title": "JavaScript: The Definitive Guide",
+        "author": "David Flanagan",
+        "publishedYear": 2020,
+        "isbn": "978-1-49-195202-3",
+        "category": "Pengembangan Web",
+        "rentalPrice": 60000,
+        "totalCopies": 4,
+        "availableCopies": 4,
+        "description": "Pembahasan komprehensif tentang ECMAScript modern, manipulasi DOM, dan API browser asinkron."
+    }
+]

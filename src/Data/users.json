@@ -1,0 +1,30 @@
+[
+    {
+        "id": "USR-001",
+        "fullName": "Achmad Althof Avisena",
+        "email": "althofavisena@gmail.com",
+        "membershipTier": "Premium",
+        "joinedAt": "2026-11-13"
+    },
+    {
+        "id": "USR-002",
+        "fullName": "Bagti Putra Pratama",
+        "email": "bagtiputra#@gmail.com",
+        "membershipTier": "Student",
+        "joinedAt": "2026-11-13"
+    },
+    {
+        "id": "USR-003",
+        "fullName": "Adam Al Ghonie",
+        "email": "adamhihu@gmail.com",
+        "membershipTier": "Student",
+        "joinedAt": "2026-11-13"
+    },
+    {
+        "id": "USR-004",
+        "fullName": "Habib Anoraga",
+        "email": "habibanoraga@gmail.com",
+        "membershipTier": "Standard",
+        "joinedAt": "2026-11-13"
+    }
+]
